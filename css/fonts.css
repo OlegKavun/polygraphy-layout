@@ -1,0 +1,13 @@
+@font-face {
+	font-family: "Clear-Sans";
+	src: url("../fonts/clearsans/ClearSans-Regular.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+@font-face {
+	font-family: 'Roboto';
+	src: url('../img/Roboto/RobotoRegular/RobotoRegular.eot');
+	src: url('../img/Roboto/RobotoRegular/RobotoRegular.eot?#iefix') format('embedded-opentype');
+	font-style: normal;
+	font-weight: normal;
+}
